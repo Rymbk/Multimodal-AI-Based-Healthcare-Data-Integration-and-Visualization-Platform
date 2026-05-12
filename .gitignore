@@ -1,2 +1,4 @@
 data_preparation/raw/
 platform/data/
+data_preparation/linked/platform/outputs/
+platform/outputs/
